@@ -1,0 +1,22 @@
+/* Ajout de la police Calib */
+@font-face {
+    font-family: "Calibri-Regular";
+    src: url('../font/Calibri-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: "Calibri-Regular", sans-serif;
+}
+
+footer  {
+    display: flex;
+}
+
+footer div {
+    width: 25%;
+}
+
+#logo img {
+    width: 48px;
+    height: 48px;
+}
