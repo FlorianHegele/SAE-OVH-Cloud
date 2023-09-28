@@ -5,7 +5,7 @@
 SAE-OVHCloud\
 [Lien du site du projet](https://florianhegele.github.io/SAE-OVHCloud/)
 
-## Membres du groupe :  
+## Membres du groupe n°6 :  
  - [Blessing Théo (référent)](mailto:theo.blessing@edu.univ-fcomte.fr?subject=SAE_1_05_06)
  - [Caruhel Rémy](mailto:remy.caruhel@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
  - [Catry Benoit](mailto:benoit.catryedu.univ-fcomte.fr?subject=SAE_1_05_06)  
