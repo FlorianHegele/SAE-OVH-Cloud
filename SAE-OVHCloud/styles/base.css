@@ -1,0 +1,90 @@
+/* Fichier contenant la mise en forme du header et du footer*/
+/* Ajout de la police Calib */
+
+@font-face {
+    font-family: "Helvetica";
+    src: url('../font/Helvetica.ttf') format('truetype');
+}
+
+body {
+    font-family: "Helvetica", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+/* header */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px; 
+    height: 125px;
+}
+
+#title {
+    text-align: center;
+    margin-left: 43%;
+    margin-top: 33px;
+}
+
+#title h1 {
+    margin: 0px;
+}
+
+#title h3 {
+    margin: 5px;
+}
+
+nav > ul {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 2px;
+}
+
+nav li {
+    padding-left: 13px;
+}
+
+li > a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+nav {
+    margin-top: -22px;
+}
+
+/* footer */
+
+#real-footer  {
+    display: flex;
+    justify-content: center;
+}
+
+#real-footer > div {
+    width: 250px;
+    margin: 5px 30px;
+}
+
+#logo {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px -13px;
+}
+
+#logo img {
+    width: 40px;
+    height: 40px;
+}
+
+#logo img:not(.no-border) {
+    border: 2px solid;
+    border-radius: 100px;
+}
+
+#about {
+    margin: 0px 0px 10px 0px;
+}
