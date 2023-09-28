@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Calibri-Regular";
+    src: url('../font/Calibri-Regular.ttf') format('truetype');
+}
+body {
+    font-family: "Calibri-Regular", sans-serif;
+}
+#content  {
+    display: grid;
+    justify-content: center;
+}
+#content > div {
+    width: 600px;
+    margin: 20px 20px;
+}
+
+
+a {
+    outline: none;
+    text-decoration: none;
+    color: black;
+  }
+  a:hover {
+   color: darkblue; 
+  }
