@@ -5,34 +5,7 @@
     src: url('../font/Calibri-Regular.ttf') format('truetype');
 }
 
-.ovh-logo{
-  width: 3.5cm;
-  position: fixed;
-  top: 0.5cm;
-  left: 0.5cm;
-}
 
-
-.navigation-pages{
-  position: fixed;
-  top: 0.5cm;
-  right: 3cm;
-  z-index: 999;
-  background-color: white;
-  border-width: thick;
-  border-color: white;
-  border-radius: 5px;
-}
-
-.liens{
-  text-decoration: none;
-  color: black;
-  font-weight: bold;
-}
-
-.liens:hover{
-  color: #428bff;
-}
 
 .sous-titre{
   margin-left: 16cm;
@@ -85,15 +58,6 @@ h1,h2{
 
 }
 
-h2{
-  font-size: 200%
-}
-
-h1{
-  padding-top: 3cm;
-  padding-bottom: 1cm;
-  font-size: 300%;
-}
 
 p{
   font-size: 125%;
@@ -102,40 +66,4 @@ p{
 body {
     font-family: "Calibri-Regular", sans-serif;
 
-}
-
-footer{
-  padding-top: 7cm;
-}
-
-#real-footer  {
-    display: flex;
-    justify-content: center;
-}
-
-#real-footer > div {
-    width: 250px;
-    margin: 5px 30px;
-}
-
-#logo {
-    display: flex;
-    justify-content: space-around;
-    margin: 0px -13px;
-}
-
-#logo img {
-    width: 40px;
-    height: 40px;
-}
-
-#logo img:not(.no-border) {
-    border: 2px solid;
-    border-radius: 100px;
-    border-color: black;
-}
-
-
-#about {
-    margin: 0px 0px 10px 0px;
 }
