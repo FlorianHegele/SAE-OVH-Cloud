@@ -80,9 +80,13 @@ nav {
     height: 40px;
 }
 
-#logo img:not(.no-border) {
-    border: 2px solid;
+#logo img {
+    border: 2px black solid;
     border-radius: 100px;
+}
+
+#logo img:hover {
+    border: 2px rgb(193, 172, 172) solid;
 }
 
 #about {
