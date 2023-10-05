@@ -6,8 +6,10 @@
     src: url('../font/Helvetica.ttf') format('truetype');
 }
 
+
 body {
     font-family: "Helvetica", sans-serif;
+    margin: 0px;
 }
 
 ul {
@@ -17,17 +19,9 @@ ul {
 
 /* header */
 
-header {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px; 
-    height: 125px;
-}
-
 #title {
     text-align: center;
-    margin-left: 43%;
-    margin-top: 33px;
+    margin-top: 30px;
 }
 
 #title h1 {
@@ -39,22 +33,21 @@ header {
 }
 
 nav > ul {
+    margin: 0px;
     display: flex;
-    justify-content: space-evenly;
-    padding-bottom: 2px;
+    justify-content: center;
+    gap: 20px;
 }
 
-nav li {
-    padding-left: 13px;
+nav {
+    background-color: blue; 
+    width: 100%;
+    padding: 15px 0px;
 }
 
 li > a {
     color: inherit;
     text-decoration: inherit;
-}
-
-nav {
-    margin-top: -22px;
 }
 
 /* footer */
