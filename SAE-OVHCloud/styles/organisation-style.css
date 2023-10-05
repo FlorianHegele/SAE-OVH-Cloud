@@ -1,4 +1,4 @@
-/* Ajout de la police Calib */
+  /* Ajout de la police Calib */
 
 @font-face {
     font-family: "Calibri-Regular";
@@ -7,60 +7,83 @@
 
 
 
-.sous-titre{
-  margin-left: 16cm;
-  margin-right: 16cm;
-}
 
-.image1{
-  width: 10cm;
-  position: absolute;
-  top: 130%;
-  left: 55%;
-  transform: translate(-75%, -50%);
+.sous-titre{
+  margin-left: 12cm;
+  margin-right: 12cm;
+  font-size: 140%;
 }
 
 .image2{
-  width: 10cm;
-  position: absolute;
-  top: 130%;
+  width: 18cm;
+  position: absolute; /* Positionne l'image absolument par rapport à son parent (.premier-bloc) */
+  top: 35%; /* Place le haut de l'image au milieu de son parent */
+  left: 1cm; /* Place la gauche de l'image au milieu de son parent */
 
-  transform: translate(200%, -50%);
 }
 
-.image3{
-  width: 10cm;
-  position: absolute;
-  top: 130%;
-  left: 55%;
-  transform: translate(-75%, -50%);
+.image3,.image1{
+  width: 18cm;
+  position: absolute; /* Positionne l'image absolument par rapport à son parent (.premier-bloc) */
+  top: 75%; /* Place le haut de l'image au milieu de son parent */
+  left: 30%; /* Place la gauche de l'image au milieu de son parent */
+  transform: translate(50%, -70%); /* Centre l'image parfaitement */
 }
 
 .paragraphe1{
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 4%;
+  padding-right: 50%;
   position: relative;
 }
 
 .paragraphe2{
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 50%;
+  padding-right: 4%;
   position: relative;
 }
 
 .bloc1,.bloc2{
-  padding-top: 6cm;
+  padding-top: 3cm;
   position: relative;
 }
+
+.titreBloc1{
+  padding-bottom: 1cm;
+  padding-right: 50%;
+}
+
+
+.titreBloc2{
+  padding-bottom: 1cm;
+  padding-left: 38%;
+
+}
+
+
+.titreBloc3{
+  padding-bottom: 1cm;
+  padding-right: 52%;
+
+}
+
 
 h1,h2{
   text-align: center;
 
 }
 
+h2{
+  font-size: 200%
+}
+
+h1{
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  font-size: 300%;
+}
 
 p{
-  font-size: 125%;
+  font-size: 160%;
 }
 
 body {
