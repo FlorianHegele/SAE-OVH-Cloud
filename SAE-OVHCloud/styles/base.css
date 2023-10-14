@@ -1,24 +1,20 @@
-/* Fichier contenant la mise en forme du header, du footer, et de la police*/
+/* Fichier contenant la mise en forme du header, du footer, et de la police */
 /* Ajout de la police Helvectica */
 
 @font-face {
-    font-family: "Helvetica";
-    src: url('../font/Helvetica.ttf') format('truetype');
+    font-family: 'Helvetica';
+    src: url('../font/Helvetica.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
 
     /*  PALETTE DE COULEURS
-        
-        background-color: #FFFFFF; 
-        background-color: #348E93; 
-        background-color: #19646E; 
-        background-color: #263EB1; 
-        background-color: #351CC8;
 
-        background-color: rgb(255, 255, 255); 
-        background-color: rgb(52, 142, 147); 
-        background-color: rgb(25, 100, 110); 
-        background-color: rgb(38, 62, 177); 
-        background-color: rgb(53, 28, 200);
+        white; 
+        rgb(52, 142, 147); 
+        rgb(25, 100, 110); 
+        rgb(38, 62, 177); 
+        rgb(53, 28, 200);
 
         ===========================
         
@@ -29,7 +25,6 @@
         VIOLET
     */
 
-
 body {
     font-family: "Helvetica", sans-serif;
     margin: 0px;
@@ -39,15 +34,55 @@ ul {
     list-style-type: none;
 }
 
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 2.1em;
+}
+
+h4 {
+    font-size: 1.7em;
+}
+
+p {
+    font-size: 1.45em;
+}
+
+main h1 {
+    color: rgb(43, 23, 160);
+}
+
+main h2 {
+    color: rgb(43, 23, 160);
+}
+
+main h3 {
+    color: rgb(48, 70, 179);
+}
+
+main h4 {
+    color: rgb(48, 70, 179);
+}
+
+main p {
+    color: rgb(48, 70, 179);
+}
+
 
 /* header */
 
 #title {
     text-align: center;
     width: 100%;
-    height: 280px;
+    height: 290px;
     text-shadow: 0px 0px 2em #351CC8;
-    background-image: linear-gradient(rgba(38, 62, 177, 0.6), white), url("../images/DataCenter.webp");
+    background-image: linear-gradient(rgba(38, 62, 177, 0.3), white), url("../images/DataCenter.webp");
     background-position: 0px, -25px;
     margin-bottom: 50px;
 }
@@ -55,13 +90,13 @@ ul {
 
 #title h1 {
     padding-top: 0.75em;
-    font-size: 4.5em;
     margin: 0px;
 }
 
-#title h2 {
+#title h3 {
+    font-weight: normal;
     margin: 5px auto;
-    width: 25%;
+    width: 30%;
 }
 
 
@@ -90,18 +125,11 @@ nav li:hover::after {
     transition: transform 0.35s
 } 
 
-
 nav > ul {
     margin: 0px;
     display: flex;
     justify-content: center;
-    gap: 7%;
-}
-
-nav {
-    background-color: #263EB1;
-    width: 100%;
-    padding: 15px 0px;
+    gap: 5.5%;
 }
 
 nav li > * {
@@ -110,16 +138,26 @@ nav li > * {
     letter-spacing: 0.05em;
 }
 
+nav {
+    background-color: #263EB1;
+    width: 100%;
+    padding: 15px 0px;
+}
+
 /* footer */
+
+#about {
+    width: 270px;
+}
 
 #real-footer  {
     display: flex;
     justify-content: center;
+    gap: 100px;
 }
 
 #real-footer > div {
     width: 250px;
-    margin: 5px 30px;
 }
 
 #logo {
@@ -134,14 +172,15 @@ nav li > * {
 }
 
 #logo img {
-    border: 2px black solid;
+    border: 3px black solid;
     border-radius: 100px;
 }
 
 #logo img:hover {
-    border: 2px rgb(193, 172, 172) solid;
+    border: 3px rgb(52, 142, 147) solid;
 }
 
-#about {
-    margin: 0px 0px 10px 0px;
+footer p {
+    font-size: large;
 }
+
