@@ -1,7 +1,32 @@
-#paragraphe {
-    margin: 0px 150px 0px 50px;
+.containerd {
+    margin-left: auto;
+    margin-right: 10%;
+    width: 800px;
+    display: flex; 
+    align-items: center; 
 }
 
-#image{
-    margin: 50px 400px 50px 400px;
+.containerg {
+    margin-left: 10%;
+    margin-right: auto;
+    width: 800px;
+    display: flex; 
+    align-items: center; 
+}
+
+
+.image {
+    max-width: 50%; 
+    margin-right: 20px; 
+}
+
+
+.text1 {
+    flex: 1; 
+}
+
+
+.titre {
+    font-size: 20px; 
+    margin: 0; 
 }
