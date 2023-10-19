@@ -28,7 +28,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Findex.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+![capture d'écran de la conformité de la page ...](docs/verif-index.png)
 
 ### Page des Services
 **Auteur : Hegele Florian**  
@@ -36,7 +36,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Fservices.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+![capture d'écran de la conformité de la page ...](docs/verif-services.png)
 
 ### Page de l'Organisation
 **Auteur : Rémy Caruhel**  
@@ -44,7 +44,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Forganisation.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+![capture d'écran de la conformité de la page ...](docs/verif-organisation.png)
 
 ### Page des Finances
 **Auteur : Benoit Catry**  
@@ -52,7 +52,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Ffinances.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+![capture d'écran de la conformité de la page ...](docs/verif-finances.png)
 
 ### Page de l'Ecologie
 **Auteur : Benoit Catry**  
@@ -60,7 +60,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Fecologie.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+![capture d'écran de la conformité de la page ...](docs/verif-ecologie.png)
 
 
 ## Répartition du travail
