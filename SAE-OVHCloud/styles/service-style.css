@@ -1,3 +1,11 @@
+/* Régulation du header */
+
+#title h3 {
+    width: 37%;
+}
+
+/* Page Principale */
+
 section h2 {
     text-align: center;
 }

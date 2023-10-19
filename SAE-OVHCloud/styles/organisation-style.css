@@ -1,4 +1,10 @@
+/* Régulation du header */
 
+#title h3 {
+  width: 38%;
+}
+
+/* Page Principale */
 
 .section{
   width: 50%;

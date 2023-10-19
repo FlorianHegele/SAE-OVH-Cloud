@@ -1,3 +1,11 @@
+/* Régulation du header */
+
+#title h3 {
+    width: 35%;
+}
+
+/* Page Principale */
+
 #content  {
     display: grid;
     justify-content: center;
