@@ -8,68 +8,93 @@ SAE-OVHCloud\
 ## Membres du groupe n°6 :  
  - [Blessing Théo (référent)](mailto:theo.blessing@edu.univ-fcomte.fr?subject=SAE_1_05_06)
  - [Caruhel Rémy](mailto:remy.caruhel@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
- - [Catry Benoit](mailto:benoit.catryedu.univ-fcomte.fr?subject=SAE_1_05_06)  
+ - [Catry Benoit](mailto:benoit.catry@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
  - [Hegele Florian](mailto:florian.hegele@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 
 
 ## Présentation 
 Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Ce site présente des informations concernant l'entreprise OVHCloud et sert de vitrine pour présenter l'entreprise, ses activité, son organisation et son historique. Vous trouverez dans ce dépôt et sur le site un rapport économique analysant l'aspect économique d'OVHCloud. 
 
-<!-- 
+
 ## Choix de conception  
 Pour la conception du site, nous nous sommes grandement inspirés du site officiel de OVHCloud (trouvable [ici](https://www.ovhcloud.com/fr/)), et nous avons pris comme référence les templates suivantes disponible [ici](doc/charte_graphique.pdf).    
 
 
 ## Développement Site Web et Validation des pages
 
-### Page d'accueil
+### Page d'Accueil
 **Auteur : Blessing Théo**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Findex.html)
 
 
 ![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
 
-ou 
+### Page des Services
+**Auteur : Hegele Florian**  
 
-<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Fservices.html)
 
-### Présentation générale
-**Auteur : Nom Prénom**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
 
-<br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+### Page de l'Organisation
+**Auteur : Rémy Caruhel**  
 
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Forganisation.html)
+
+
+![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+
+### Page des Finances
+**Auteur : Benoit Catry**  
+
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Ffinances.html)
+
+
+![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+
+### Page de l'Ecologie
+**Auteur : Benoit Catry**  
+
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHCloud%2Fecologie.html)
+
+
+![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
 
 
 ## Répartition du travail
 
 ### Planification - Diagramme de GANTT
 
-- Nom Prénom
+- Blessing Théo
+- Benoit Catry
+- Hegele Florian
 
 ### Recherches d'informations
 
-- Nom Prénom
-- Nom Prénom
+- Blessing Théo
+- Benoit Catry
+- Caruhel Rémy
+- Hegele Florian
 
 
 ### Rapport économique
 
-- Nom Prénom
-- Nom Prénom
-- Nom Prénom
+- Blessing Théo
+- Benoit Catry
+- Hegele Florian
 
 ### Développement site
 
-- Nom Prénom
-  - Page d’accueil
-  - "Template" de page (Navbar/Footer)
-  - Page présentation
-- Nom Prénom
-  - Page histoire
-- Nom Prénom
-  - Page organisation
--->
+- Hegele Florian
+  - Page des Services
+  - "Template" du Header et de la Navbar
+  - "Template" du Footer
+- Catry Benoit
+  - Page des Finances
+  - Page de l'Ecologie
+- Blessing Théo
+  - Page d'Accueil
+- Caruhel Rémy
+  - Page de l'Organisation
