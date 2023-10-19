@@ -173,12 +173,12 @@ nav {
 }
 
 #logo img {
-    border: 3px black solid;
+    border: 2px white solid;
     border-radius: 100px;
 }
 
 #logo img:hover {
-    border: 3px rgb(52, 142, 147) solid;
+    border: 2px rgb(25, 100, 110) solid;
 }
 
 footer p {

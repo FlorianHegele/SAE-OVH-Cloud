@@ -1,0 +1,22 @@
+/* Régulation du header */
+
+#title h3 {
+    width: 37%;
+}
+
+/* Page Principale */
+
+section h2 {
+    text-align: center;
+}
+
+section img {
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 50px;
+}
