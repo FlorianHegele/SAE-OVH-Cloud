@@ -20,14 +20,17 @@
     width: 700px;
 }
 
-
 main a {
     outline: none;
     text-decoration: none;
 
   }
 
-main #content > div h2:hover{
+main #content > div h2:hover {
     color: rgb(52, 142, 147);  
+}
+   
+main #content > div h2 {
+    transition: 0.2s;
 }
    
