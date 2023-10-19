@@ -17,20 +17,20 @@
 }
 
 .text1 {
-    color: rgb(48, 70, 179);
+    
     flex: 1;
     font-size: 12px; 
 }
 
 
 .titre {
-    color: rgb(48, 70, 179);
+    
     font-size: 20px; 
     margin: 0; 
 }
 
 .containerl {
-    color: rgb(48, 70, 179);
+    
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -41,7 +41,7 @@
 }
 
 .link{
-    color: rgb(48, 70, 179);
+    
     text-decoration: underline;
 }
 
