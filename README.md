@@ -71,6 +71,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 - Benoit Catry
 - Hegele Florian
 
+
 ### Recherches d'informations
 
 - Blessing Théo
@@ -85,6 +86,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 - Benoit Catry
 - Hegele Florian
 
+
 ### Développement site
 
 - Hegele Florian
@@ -98,3 +100,8 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
   - Page d'Accueil
 - Caruhel Rémy
   - Page de l'Organisation
+
+
+### Contribution
+
+![capture d'écran de l'onglet contribution](docs/Contributeur.png)
