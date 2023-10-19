@@ -1,77 +1,27 @@
-.sous-titre{
-  margin-left: 12cm;
-  margin-right: 12cm;
-  font-size: 140%;
+
+
+.section{
+  width: 50%;
+  margin: auto;
+  padding-bottom: 50px;
 }
 
-.image2{
-  width: 18cm;
-  position: absolute; /* Positionne l'image absolument par rapport à son parent (.premier-bloc) */
-  top: 35%; /* Place le haut de l'image au milieu de son parent */
-  left: 1cm; /* Place la gauche de l'image au milieu de son parent */
-
+.image3,.image1,.image2{
+  width: 20cm;
+  padding-bottom: 50px;
+  
 }
 
-.image3,.image1{
-  width: 18cm;
-  position: absolute; /* Positionne l'image absolument par rapport à son parent (.premier-bloc) */
-  top: 75%; /* Place le haut de l'image au milieu de son parent */
-  left: 30%; /* Place la gauche de l'image au milieu de son parent */
-  transform: translate(50%, -70%); /* Centre l'image parfaitement */
-}
-
-.paragraphe1{
-  padding-left: 4%;
-  padding-right: 50%;
-  position: relative;
-}
-
-.paragraphe2{
-  padding-left: 50%;
-  padding-right: 4%;
-  position: relative;
-}
-
-.bloc1,.bloc2{
-  padding-top: 3cm;
-  position: relative;
-}
-
-.titreBloc1{
-  padding-bottom: 1cm;
-  padding-right: 50%;
-}
-
-
-.titreBloc2{
-  padding-bottom: 1cm;
-  padding-left: 38%;
-
-}
-
-
-.titreBloc3{
-  padding-bottom: 1cm;
-  padding-right: 52%;
-
-}
-
-
-main h1, main h2{
+.images,.titreBloc1,.titreBloc2,.titreBloc3,h1,h2,h3{
   text-align: center;
-
 }
 
-main h2{
-  font-size: 200%
-}
-
-main h1{
-  padding-top: 1cm;
-  padding-bottom: 1cm;
-  font-size: 300%;
-}
 
 p{
-  font-size: 160%;
+  color: rgb(43, 23, 160);
 }
+
+.titreBloc1,.titreBloc2,.titreBloc3,li{
+  color: rgb(43, 23, 160);
+}
+
