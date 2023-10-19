@@ -4,6 +4,7 @@
     width: 1000px;
     display: flex; 
     align-items: center; 
+    padding-bottom: 35px;
 }
 
 .containerg {
@@ -12,33 +13,35 @@
     width: 1000px;
     display: flex; 
     align-items: center; 
+    padding: 35px;
 }
 
 .text1 {
-    color: rgb(48, 70, 179);
+    
     flex: 1;
     font-size: 12px; 
 }
 
 
 .titre {
-    color: rgb(48, 70, 179);
+    
     font-size: 20px; 
     margin: 0; 
 }
 
 .containerl {
-    color: rgb(48, 70, 179);
+    
     margin-left: auto;
     margin-right: auto;
     display: flex;
     text-align: center;
     flex-direction: column;
     width: 500px;
+    padding-bottom: 25px;
 }
 
 .link{
-    color: rgb(48, 70, 179);
+    
     text-decoration: underline;
 }
 
