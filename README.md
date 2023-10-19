@@ -17,7 +17,7 @@ Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la S
 
 
 ## Choix de conception  
-Pour la conception du site, nous nous sommes grandement inspirés du site officiel de OVHcloud (trouvable [ici](https://www.ovhcloud.com/fr/)), et nous avons pris comme référence la template suivante disponible [ici](https://startbootstrap.com/previews/clean-blog-jekyll). Nous avons aussi pris comme référence la palette suivante (tirée des couleurs retrouvées sur le site officiel d'OVHcloud) disponible [ici](docs/Palette.png).
+Pour la conception du site, nous nous sommes grandement inspirés du site officiel de OVHcloud (trouvable [ici](https://www.ovhcloud.com/fr/)), et nous avons pris comme référence la template suivante disponible [ici](https://startbootstrap.com/previews/clean-blog-jekyll). Nous avons aussi pris comme référence la palette (tirée des couleurs retrouvées sur le site officiel d'OVHcloud) suivante disponible [ici](docs/Palette.png).
 
 
 ## Développement Site Web et Validation des pages
