@@ -129,7 +129,7 @@ nav > ul {
     margin: 0px;
     display: flex;
     justify-content: center;
-    gap: 5.5%;
+    gap: 4%;
 }
 
 nav li > * {
