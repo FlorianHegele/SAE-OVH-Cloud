@@ -184,3 +184,10 @@ nav {
 footer p {
     font-size: large;
 }
+
+footer {
+    background-color: rgba(38, 62, 177, 1);
+    margin-top: 50px;
+    padding-top: 10px;
+    color: white;
+}
