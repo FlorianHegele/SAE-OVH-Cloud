@@ -6,9 +6,8 @@
     <title>OVH Cloud - Finance</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="stylesheet" href="styles/base.css">
+    <link rel="stylesheet" href="styles/modal-style.css">
     <link rel="stylesheet" href="styles/finances-style.css">
-
-
 </head>
 
 <body>
@@ -28,9 +27,15 @@
         </div>
     </header>
 
+    <!-- Le Modal -->
+    <div id="modal">
+        <span id="closeModal">&times;</span>
+        <img id="modal-content">
+        <div id="caption"></div>
+    </div>
 
     <div class="containerd">
-        <img src="images/croissanceclood.png" alt="confused stonk" height="297" width="500" >
+        <img src="images/croissanceclood.png" class="modalimg" alt="confused stonk" height="297" width="500" >
         <div class="text1">
             <h2 class="titre">marcher en plaine croissance</h2>
             <p>Le marché du cloud est en plein essor,en 2022, il a généré un chiffre d'affaires de 545,8 milliards de
@@ -59,7 +64,7 @@
                 projets d'expansion et d'acquisitions à l'horizon.</p>
         </div>
 
-        <img src="images/Evolution_du_chiffred_affaires.png" alt="confused stonk" height="297" width="500" >
+        <img src="images/Evolution_du_chiffred_affaires.png" class="modalimg" alt="confused stonk" height="297" width="500" >
 
     </div>
 
@@ -98,10 +103,6 @@
     <br>
 
 
-
-
-
-
     <footer>
         <div id="real-footer">
             <div>
@@ -138,5 +139,5 @@
         Page créé par Benoit Catry
     </footer>
 </body>
-
+<script src="scripts/modal_img.js"></script>
 </html>
