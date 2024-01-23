@@ -3,7 +3,7 @@
 ## Sujet  
 
 SAE-OVHcloud\
-[Lien du site du projet](https://florianhegele.github.io/SAE-OVHcloud/)
+[Lien du site du projet](https://SAE-OVH-Cloud/SAE-OVHcloud/)
 
 ## Membres du groupe n°6 :  
  - [Blessing Théo (référent)](mailto:theo.blessing@edu.univ-fcomte.fr?subject=SAE_1_05_06)
@@ -25,7 +25,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 ### Page d'Accueil
 **Auteur : Blessing Théo**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHcloud%2Findex.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2FSAE-OVH-Cloud%2FSAE-OVHcloud%2Findex.html)
 
 
 ![capture d'écran de la conformité de la page ...](docs/verif-index.png)
@@ -33,7 +33,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 ### Page des Services
 **Auteur : Hegele Florian**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHcloud%2Fservices.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2FSAE-OVH-Cloud%2FSAE-OVHcloud%2Fservices.html)
 
 
 ![capture d'écran de la conformité de la page ...](docs/verif-services.png)
@@ -41,7 +41,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 ### Page de l'Organisation
 **Auteur : Rémy Caruhel**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHcloud%2Forganisation.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2FSAE-OVH-Cloud%2FSAE-OVHcloud%2Forganisation.html)
 
 
 ![capture d'écran de la conformité de la page ...](docs/verif-organisation.png)
@@ -49,7 +49,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 ### Page des Finances
 **Auteur : Benoit Catry**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHcloud%2Ffinances.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2FSAE-OVH-Cloud%2FSAE-OVHcloud%2Ffinances.html)
 
 
 ![capture d'écran de la conformité de la page ...](docs/verif-finances.png)
@@ -57,7 +57,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 ### Page de l'Ecologie
 **Auteur : Benoit Catry**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fflorianhegele.github.io%2FSAE-OVHcloud%2Fecologie.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2FSAE-OVH-Cloud%2FSAE-OVHcloud%2Fecologie.html)
 
 
 ![capture d'écran de la conformité de la page ...](docs/verif-ecologie.png)
